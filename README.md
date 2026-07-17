@@ -1,7 +1,3 @@
-#Product Teardown Deck of Swiggy
-Here is a comprehensive, professional **`README.md`** file tailored for your GitHub repository based on your Swiggy Product Teardown presentation.
-
----
 
 # 🛵 Swiggy Product Teardown: From Craving to Checkout & UX Optimization
 
